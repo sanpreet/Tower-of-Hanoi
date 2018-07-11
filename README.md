@@ -1,5 +1,6 @@
 # Tower-of-Hanoi
 Puzzle Game
+---
 
 Tower of Hanoi is very intersting game and let us discuss the rules before going to code which you can find in the file TOWER_OF_HANOI.py
 Rules for playing the game
